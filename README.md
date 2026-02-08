@@ -10,9 +10,11 @@ Key Features :
 
 Manage multiple financial accounts in one dashboard
 
+
 ✨ Track both income and expenses seamlessly
 
 Real-time balance updates and transaction management
+
 
 ✨ Smart Categorization & Automation
 
@@ -103,6 +105,7 @@ Shailesh A G
 Computer Science Student | Full-Stack Developer
 
 Passionate about building scalable SaaS and AI-powered applications.
+
 
 
 
